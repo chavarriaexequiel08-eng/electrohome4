@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+dialog::backdrop{background:rgba(0,0,0,.6)} .modal{display:grid;place-items:center} .modal-box{border-radius:1rem}
